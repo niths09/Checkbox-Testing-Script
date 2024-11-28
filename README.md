@@ -1,4 +1,4 @@
-# Checkbox Selenium Automation Project
+# Check Box Selenium Automation Project
 
 This project automates the process of interacting with checkboxes on a practice webpage. The automation script checks and unchecks three car brand checkboxes (BMW, Benz and Honda) using Selenium WebDriver, with delays to allow the user to observe the actions clearly. 
 
